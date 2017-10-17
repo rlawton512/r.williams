@@ -60,3 +60,9 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
 footer{
 	text-align: center;
 }
+
+#devicon{
+  height:200px;
+  padding:0px;
+
+}
